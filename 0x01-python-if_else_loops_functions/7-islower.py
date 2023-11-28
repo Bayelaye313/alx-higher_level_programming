@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 def islower(c):
-	return (ord(c) >= 97 and ord(c) <= 122)
+	charac = ord(c)
+    return (charac >= 97 and charac <= 122)
