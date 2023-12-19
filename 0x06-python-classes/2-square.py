@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Working with OOP in python is awasome"""
+"""Working with OOP in python"""
 
 
 class Square():
