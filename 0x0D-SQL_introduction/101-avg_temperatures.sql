@@ -1,4 +1,3 @@
--- 101 Temperatures #0 Go to UTF 8
 -- Displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
 SELECT `city`, AVG(value) as `avg_temp` FROM temperatures
 GROUP BY `city`
